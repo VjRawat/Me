@@ -7,7 +7,7 @@ About Me!
     3. Select the font properties and apply them to the body.
     4. Always use container for logo and other images.
     5. CSS sepcificity - Inline,ID,C,PC,Attribute,Elements.
-    6. Install node if it's not installed.
+    6. Install node if it's not installed (npm install node-sass --save-dev).
     7. "npm init" this will create a package.json file where all details will save about the copyright, author, etc.
     8. For installing sass in the project run "npm run node-sass --save-dev".
     9. Write this script to compile scss/sass file in script file '"compile:sass": "node-sass sass/main.scss css/style.css -w"'. 
